@@ -83,7 +83,7 @@
   /* Style for Home Section */
 .home{
     display: flex;
-    background: URL("./images/banner-5.jpg") no-repeat center;
+    background: URL("./images/banner.jpg") no-repeat center;
     height: 100vh;
     color: red;
     min-height: 500px;
