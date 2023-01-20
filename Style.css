@@ -83,7 +83,7 @@
   /* Style for Home Section */
 .home{
     display: flex;
-    background: URL("/Users/Vin/Documents/Online-LCT/LCT5_WDProject1/images/banner.jpg") no-repeat center;
+    background: URL("images/banner.jpg") no-repeat center;
     height: 100vh;
     color: red;
     min-height: 500px;
@@ -148,7 +148,7 @@ section
 .about
   {
     display: flex;
-    background: URL("/Users/Vin/Documents/Online-LCT/LCT5_WDProject1/images/banner-5.jpg") no-repeat center; 
+    background: URL("images/banner-5.jpg") no-repeat center; 
     background-size: cover;
     background-attachment: scroll;
     font-family: 'Montserrat', sans-serif;
@@ -279,7 +279,7 @@ section
   .Skills
   {
     display: flex;
-    background: URL("/Users/Vin/Documents/Online-LCT/LCT5_WDProject1/images/banner-3.jpg") no-repeat center; 
+    background: URL("images/banner-3.jpg") no-repeat center; 
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Montserrat', sans-serif;
@@ -413,7 +413,7 @@ section
   {
     
     display: flex;
-    background: URL("/Users/Vin/Documents/Online-LCT/LCT5_WDProject1/images/banner-4.jpg") no-repeat center; 
+    background: URL("images/banner-4.jpg") no-repeat center; 
         /*"/Users/Vin/Documents/Online-LCT/LCT5_WDProject1/images/banner.jpg"*/
    /*height: 100vh;
     min-height: 500px;
